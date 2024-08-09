@@ -1,5 +1,18 @@
 # Changelog
 
+## [5.9.0](https://github.com/stoplightio/prism/compare/v5.8.3...v5.9.0) (2024-08-09)
+
+### Bug Fixes
+
+* version update and bundled_issue changes ([#2577](https://github.com/stoplightio/prism/issues/2577)) ([c4074fa](https://github.com/stoplightio/prism/commit/c4074fa24438079e659061ee32d08464a688c17c))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @stoplight/prism-http bumped from ^5.8.4 to ^5.9.0
+
 ## [5.8.3](https://github.com/stoplightio/prism/compare/v5.8.2...v5.8.3) (2024-07-19)
 
 
